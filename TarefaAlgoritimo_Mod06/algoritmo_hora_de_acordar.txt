@@ -1,0 +1,23 @@
+Algoritmo para a Hora de Acordar
+
+INÍCIO
+1. Configurar o despertador para o horário desejado.
+2. Dormir
+2. Quando o despertador tocar:
+	a. Abrir os olhos.
+	b. Desligar o despertador.
+	c. Sentar-se na cama por alguns segundos para acordar completamente.
+3. Levantar-se da cama.
+4. Ir ao banheiro:
+	a. Se tiver vontade de fazer xixi:
+		a.a. Fazer xixi.
+    	b. Escovar os dentes.
+    	c. Lavar o rosto.
+5. Trocar de roupa:
+	a. Escolher uma roupa confortável e adequada para o dia.
+6. Preparar um café da manhã:
+	a. Preparar o alimento.
+	b. Comer.
+7. Planejar o dia:
+	a. Fazer uma lista de tarefas prioritárias.
+FIM
