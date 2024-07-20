@@ -7,7 +7,6 @@ public class Aluno {
     private double nota_02;
     private double nota_03;
     private double nota_04;
-    public Object getNota_04;
     
     public double getNota_01() {
         return nota_01;
