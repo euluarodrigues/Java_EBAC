@@ -15,6 +15,7 @@ public class CollectionLista {
                 Collections.sort(lista);
             }
         }
+        System.out.println("\nLista em ordem alfabética:");
         System.out.println(lista);
     }
 }
